@@ -3,6 +3,6 @@
     /file remove speedtest-list.rsc
   };
   /tool fetch url="https://raw.githubusercontent.com/startechnica/mikrotik/main/address-lists/speedtest.rsc" dst-path=speedtest-list.rsc;
-  /ip firewall address-list remove [/ip firewall address-list find list=speedtest];
+  /ip firewall address-list remove [/ip firewall address-list find list=speedtest dynamic=no];
   /import speedtest-list.rsc;
 }
