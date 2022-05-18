@@ -304,3 +304,13 @@ add address=v4.ipv6-test.com list=speedtest
 add address=v4v6.ipv6-test.com list=speedtest
 add address=ipv6-test.com list=speedtest
 add address=ipv6.he.net list=speedtest
+add address=ookla10g.iforte.net.id list=speedtest
+add address=speedtest-csf.myrepublic.net.id list=speedtest
+add address=speedtest05.orion.net.id list=speedtest
+add address=speedtest.binet.id list=speedtest
+add address=speedtest.jakarta.telkomsel.com list=speedtest
+add address=speedtest.maxindo.net.id list=speedtest
+add address=speedtest.napinfo.co.id list=speedtest
+add address=speedtest.sti-group.co.id list=speedtest
+add address=speedtest.theko.net.id list=speedtest
+add address=speedtest.tus.net.id list=speedtest
