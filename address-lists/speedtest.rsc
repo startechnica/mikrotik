@@ -12,7 +12,6 @@ add address=mon-trg.psu.ac.th list=speedtest
 add address=ookla-sg.ngebuts.com list=speedtest
 add address=ookla.lovelivesupport.com list=speedtest
 add address=ookla10g.iforte.net.id list=speedtest
-add address=sat	speedtest1.indosat.com list=speedtest
 add address=sg-speedtest.fast.net.id list=speedtest
 add address=sg.as.speedtest.i3d.net list=speedtest
 add address=sin.archiveofourown.ru list=speedtest
