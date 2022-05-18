@@ -76,6 +76,7 @@ add address=speedtest9.sman9-mlg.sch.id list=speedtest
 add address=speedtestsg.ipungpurbaya.net list=speedtest
 add address=st-jkt.kejora.net.id list=speedtest
 add address=st1.simpur.net.bn list=speedtest
+add address=ws-ipv4.nperf.com list=speedtest
 add address=www.speedtest.com.sg list=speedtest
 add address=www.speedtest.net list=speedtest
 add address=103.28.74.0/23 comment="Indonesia Internet eXchange" list=speedtest
