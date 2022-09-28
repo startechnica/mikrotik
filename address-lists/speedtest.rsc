@@ -245,6 +245,7 @@ add address=speedtest.binet.id list=speedtest
 add address=speedtest.biznetnetworks.com list=speedtest
 add address=speedtest.cala.games list=speedtest
 add address=speedtest.cbn.id list=speedtest
+add address=speedtest.cbn.net.id list=speedtest
 add address=speedtest.circleone.net.id list=speedtest
 add address=speedtest.desnet.id list=speedtest
 add address=speedtest.globalxtreme.net list=speedtest
