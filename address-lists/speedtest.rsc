@@ -6,6 +6,7 @@ add address=13.35.16.0/21 comment="Amazon.com, Inc." list=speedtest
 add address=151.101.0.0/16 comment=speedtest.net list=speedtest
 add address=151.101.0.0/22 comment=speedtest.net list=speedtest
 add address=159.53.0.0/16 comment="JPMorgan Chase & Co." list=speedtest
+add address=202.158.8.14 comment="speedtest.cbn.id" list=speedtest
 add address=206.81.16.0/20 comment=PingTools list=speedtest
 add address=208.95.112.0/24 comment="Total Uptime Technologies, LLC" list=speedtest
 add address=45.60.56.0/24 comment=iplocation.net list=speedtest
